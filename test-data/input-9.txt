@@ -1,0 +1,2 @@
+GT4500,1,1.0,1,0 # both are not empty but one's failure rate is 1
+TORPEDO,SINGLE

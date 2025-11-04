@@ -1,0 +1,3 @@
+GT4500,0,0,1,0 # primary is empty but the secondary is not
+TORPEDO,SINGLE
+TORPEDO,SINGLE
