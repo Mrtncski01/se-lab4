@@ -1,0 +1,2 @@
+GT4500,1,0,1,0 # all mode, both are not empty
+TORPEDO,ALL

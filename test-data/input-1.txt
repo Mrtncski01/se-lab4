@@ -1,0 +1,2 @@
+GT4500,1,0,0,0 #create a ship which has 1 torpedo
+TORPEDO,SINGLE
